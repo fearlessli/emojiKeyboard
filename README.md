@@ -1,4 +1,5 @@
 # emojiKeyboard
+<pre><code>
 
 //初始化编辑器
 editor = new Simditor({
@@ -29,3 +30,4 @@ $(".button").click(function () {
     console.log(text)								//输出纯文本内容
     console.log(html)								//输出转换后的HTML内容
 });
+</code></pre>
