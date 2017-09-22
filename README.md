@@ -29,5 +29,5 @@ $(".button").click(function () {
     $(".preview").html(html);						//预览区域，应用相同样式请将preview作为类
     console.log(text)								//输出纯文本内容
     console.log(html)								//输出转换后的HTML内容
-}); 
+});
 </code></pre>
